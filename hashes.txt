@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Last Night Lonely
+
+This log tracks the cryptographic history and versioning for the song **Last Night Lonely** (last-night-lonely).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:08:04.505165 | `v1` | `c20fb7385c75db4b9b7d6295ca094ba659a64cb115de992ecdf3fb5e50ed3bcb` | `84c84e5fa07d35b24125499639a690c816e74a6d5107ceaf5f148b98f9828cea` | `2026-05-23_last-night-lonely-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

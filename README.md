@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-lonely/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Last Night Lonely](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-lonely/) |
+| **Get License** | [Music Rights & Licensing for Last Night Lonely](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-lonely/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c20fb7385c75db4b9b7d6295ca094ba659a64cb115de992ecdf3fb5e50ed3bcb` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
