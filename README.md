@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-lonely/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Last Night Lonely](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-lonely/) |
+| **Get License** | [License this song: Last Night Lonely](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-lonely/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can see the fire dancing in your eyes tonight
+> Pulling me closer till the shadows feel right
+> Just one look and you are stealing my breath
+> Wrapped in this moment, there is nothing left
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
